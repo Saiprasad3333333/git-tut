@@ -1,0 +1,36 @@
+1)What is JavaScript and why is it used in web development?
+A)JavaScript is a programming language used primarily by Web browsers to create a dynamic and interactive experience for the user.
+
+2)Explain the difference between let, const, and var in JavaScript?
+A)In JavaScript, let , var , and const are used to declare variables, In "var" we can reassign and redeclare in "let" we can reassign but not redeclare in const we cannot use redeclare and reassign.
+
+3)How do you declare and use functions in JavaScript?
+A)A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses().
+
+4)What are arrays and objects in JavaScript? Provide examples?
+A)An array in javascript is the collection of multiple types of data at a single place in order, and an array of objects in javascript is a collection of homogenous data, that stores a sequence of numbered objects at a single place.
+
+5)Explain the concept of loops and how they are used in JavaScript?
+A)Loops in JavaScript execute a block of code again and again while the condition is true.
+
+6)What is the purpose of the console.log() function in JavaScript?
+A)It helps developers debug their code by displaying the output of their program in the console.
+
+React
+1)What is React and why is it popular in web development?
+A)It aims to allow developers to create fast user interfaces for websites and applications alike easily.
+
+2)What is JSX and how does it differ from regular JavaScript?
+A)JSX is an addition to the JavaScript syntax which is a mixture of both HTML and JavaScript.JSX converts HTML tags into react elements. You are not required to use JSX, but JSX makes it easier to write React applications.
+
+3)How do you create a functional component in React?
+A)In react we can use RFCE function to create functional component in react.
+
+4)What are props in React? How do you pass props to a component?
+A)Props stand for properties. They are read-only values that can be passed across components in order to display relevant data in your React apps.
+
+5)Explain the concept of state in React and how it is managed within a component?
+A)The state is a built-in React object that is used to contain data or information about the component. In Class based component states are in built and in function based component states are not in built.
+
+6)How do you handle user input in React forms?
+A)In this approach, form data is handled by React through the use of hooks such as the useState hook.
